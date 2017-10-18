@@ -1,0 +1,15 @@
+{
+  "name": "puppet-tree",
+  "version": "0.1.0",
+  "author": "John Miles <jdcmiles@gmail.com>",
+  "summary": "Module to install the tree application.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jdcmiles/puppet-tree",
+  "project_page": "https://github.com/jdcmiles/puppet-tree",
+  "issues_url": "https://github.com/jdcmiles/puppet-tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
